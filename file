@@ -1,9 +1,14 @@
-Q: They just announced on the radio that Dan Quayle was picked as the
-Republican V.P. candidate.  Should I post?
+    UNIX Shell is the Best Fourth Generation Programming Language
 
-A: Of course.  The net can reach people in as few as 3 to 5 days.  It's
-the perfect way to inform people about such news events long after the
-broadcast networks have covered them.  As you are probably the only person
-to have heard the news on the radio, be sure to post as soon as you can.
+    It is the UNIX shell that makes it possible to do applications in a small 
+    fraction of the code and time it takes in third generation languages.  In 
+    the shell you process whole files at a time, instead of only a line at a 
+    time.  And, a line of code in the UNIX shell is one or more programs,
+    which do more than pages of instructions in a 3GL.  Applications can be
+    developed in hours and days, rather than months and years with traditional
+    systems.  Most of the other 4GLs available today look more like COBOL or
+    RPG, the most tedious of the third generation lanaguages.
 
--- Brad Templeton, _Emily Postnews Answers Your Questions on Netiquette_
+"UNIX Relational Database Management:  Application Development in the UNIX 
+ Environment" by Rod Manis, Evan Schaffer, and Robert Jorgensen.  Prentice
+ Hall Software Series.  Brian Kerrighan, Advisor.  1988.
